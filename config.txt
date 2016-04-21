@@ -1,0 +1,10 @@
+ServerIP:127.0.0.1
+ServerPort:9088
+InputDirectory:Data/input/
+IntermediateDirectory:Data/intermediate/
+OutputDirectory:Data/output/
+ChunkSize:100000
+MergeTaskSize:8
+TaskReplication:3
+FailProbability:0.1
+Proactive:0
